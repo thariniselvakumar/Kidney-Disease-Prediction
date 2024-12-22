@@ -1,5 +1,6 @@
 # Kidney-Disease-Prediction
-Objective
+# Objective
+
 -> As we know that,Chronic Kidney Disease (CKD) is become major health problem around the world, which results in renal failure, cardiovascular disease, and early death.
 
 -> From research papers, it is found that rate of ckd had been increased up to the 17 % from all over the world.
@@ -14,3 +15,5 @@ Objective
 
 -> This project will help for early detection of the chronic kidney disease.
 
+
+![image](https://github.com/user-attachments/assets/3f60946e-53a4-4f28-ac12-5e84082c5bce)
